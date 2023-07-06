@@ -30,6 +30,7 @@ namespace AchievmentsOfPeople
                    writer.WriteLine($"{st.Name} - {average}");
                  }
             }
+            //a
         }
     }
 }
